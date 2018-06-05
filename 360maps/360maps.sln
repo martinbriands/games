@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360maps", "Assembly-CSharp.csproj", "{9A0B12CB-9757-4656-9081-1553D6E24D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "360maps", "Assembly-CSharp-Editor.csproj", "{27873473-8CFC-C64E-C809-97B5B03259CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0B12CB-9757-4656-9081-1553D6E24D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0B12CB-9757-4656-9081-1553D6E24D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0B12CB-9757-4656-9081-1553D6E24D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0B12CB-9757-4656-9081-1553D6E24D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27873473-8CFC-C64E-C809-97B5B03259CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27873473-8CFC-C64E-C809-97B5B03259CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27873473-8CFC-C64E-C809-97B5B03259CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27873473-8CFC-C64E-C809-97B5B03259CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
